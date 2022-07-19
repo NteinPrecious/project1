@@ -1,0 +1,99 @@
+.main{
+    display: flex;
+}
+.jem{
+    margin: 100px;
+}
+.mimi{
+    display: flex;
+   margin-left: auto;
+   margin-right: 0px;
+}
+.lv{
+    margin: 100px;
+    background-color: black;
+    padding: 10px;
+}
+.ph{
+    margin: 100px;
+    font-size: 20px;
+}
+.joml{
+    display: flex;
+    background-color: red;
+}
+img{
+    width: 50px;
+    border: 2px solid red;
+}
+.fff{
+    margin: 20px;
+}
+.p1{
+    margin: 20px;
+    color: white;
+}
+.pph{
+    background-color: red;
+    padding: 4px 4px 4px 10px;   
+}
+.blood{
+    color: red;
+}
+.ppph{
+    font-weight: bold;
+}
+.jem1{
+    color: red;
+    text-align: center;
+}
+.donor{
+    color: white;
+}
+.need{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+.ur{
+    padding-top: 10px;
+}
+button{
+    padding-bottom: 5px;
+    background-color: blue;
+    text-align: center;
+    color: white;
+    margin-bottom: 10px;
+    border: 0px;
+    border-radius: 10px;
+}
+.be{
+    color: white;
+    text-align: center;
+    font-size: 25px;
+    margin-top: auto;
+    margin-bottom: 5px;
+}
+.sex{
+    color: white;
+}
+.male{
+    display: flex;
+    color: white;
+}
+.female{
+    display: flex;
+    color: white;
+}
+.others{
+    display: flex;
+    color: white;
+}
+.birth{
+    color: white;
+    margin-top: auto;
+    margin-bottom: 0px;
+}
+.diff{
+    font-size: 25px;
+}
